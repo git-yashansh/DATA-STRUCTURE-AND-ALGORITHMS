@@ -19,7 +19,34 @@ int main(){
     return 0;
 }
 
+double operator + (Emp &obj1,Emp &obj2){
+        return obj1.sal + obj2.sal;
+    }
+int main(){
+    Emp emp1("emp1",2000.02),emp2("emp2",5000);
+    cout<<emp1+emp2<<endl;
+    return 0;
+}
 
+
+class Emp {
+    string name;        
+    double sal; 
+public:
+    Emp(string a, double b):name(a),sal(b){}
+    double operator + (double d){
+        return this->sal += d;
+        
+    }
+    double getsal(){
+        return sal;
+    }
+    friend double operator + (double s, Emp &obj);
+    friend double operator + (Emp &obj1, Emp &obj2);
+    
+};
+double operator + (Emp &obj1,Emp &obj2){
+        return obj1.sal + obj2.sal;
 class Emp {
     string name;        
     double sal; 
