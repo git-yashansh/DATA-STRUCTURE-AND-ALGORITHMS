@@ -50,4 +50,8 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [2129-capitalize-the-title](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2129-capitalize-the-title) |
 <!---LeetCode Topics End-->
