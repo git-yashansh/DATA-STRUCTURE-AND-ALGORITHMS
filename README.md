@@ -46,6 +46,7 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +55,8 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [2129-capitalize-the-title](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2129-capitalize-the-title) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
