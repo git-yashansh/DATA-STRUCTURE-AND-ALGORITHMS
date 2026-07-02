@@ -57,6 +57,7 @@ Build confidence for technical interviews
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0058-length-of-last-word) |
 | [2129-capitalize-the-title](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2129-capitalize-the-title) |
 ## Math
 |  |
