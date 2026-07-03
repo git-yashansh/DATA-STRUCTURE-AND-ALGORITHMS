@@ -58,6 +58,7 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0125-valid-palindrome) |
 | [2129-capitalize-the-title](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2129-capitalize-the-title) |
 ## Math
 |  |
@@ -67,6 +68,7 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
