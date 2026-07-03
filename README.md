@@ -50,6 +50,7 @@ Build confidence for technical interviews
 | [0088-merge-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
@@ -57,6 +58,7 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -84,6 +86,7 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -93,4 +96,12 @@ Build confidence for technical interviews
 | ------- |
 | [0136-single-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0389-find-the-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
