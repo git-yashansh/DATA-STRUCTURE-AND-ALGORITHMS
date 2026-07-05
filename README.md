@@ -46,6 +46,7 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0136-single-number) |
@@ -81,6 +82,7 @@ Build confidence for technical interviews
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
@@ -99,6 +101,7 @@ Build confidence for technical interviews
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
 ## Counting
 |  |
