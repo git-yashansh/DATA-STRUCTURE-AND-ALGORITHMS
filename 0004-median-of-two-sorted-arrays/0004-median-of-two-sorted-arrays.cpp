@@ -14,10 +14,10 @@ public:
         }
         
         else if(n % 2 == 0){
-            int c = num3[n/2];
-            int v = (n / 2) - 1;
-            int b = num3[v];
-            return (c + b) / 2.0; 
+            // int c = num3[n/2];
+            // int v = (n / 2) - 1;
+            // int b = num3[(n / 2) - 1];
+            return (num3[n/2] + num3[(n / 2) - 1]) / 2.0; 
         }
         return -1;
 
