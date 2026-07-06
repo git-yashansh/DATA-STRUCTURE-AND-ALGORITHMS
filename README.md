@@ -56,6 +56,7 @@ Build confidence for technical interviews
 | [0414-third-maximum-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
