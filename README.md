@@ -55,6 +55,7 @@ Build confidence for technical interviews
 | [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0414-third-maximum-number) |
+| [0724-find-pivot-index](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -116,4 +117,8 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
