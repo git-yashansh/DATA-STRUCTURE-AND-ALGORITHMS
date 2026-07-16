@@ -63,6 +63,7 @@ Build confidence for technical interviews
 | [0747-largest-number-at-least-twice-of-others](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Build confidence for technical interviews
 | [0125-valid-palindrome](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0389-find-the-difference) |
 | [2129-capitalize-the-title](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2129-capitalize-the-title) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Math
 |  |
 | ------- |
