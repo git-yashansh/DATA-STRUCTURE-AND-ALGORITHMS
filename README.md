@@ -49,6 +49,7 @@ Build confidence for technical interviews
 | [0004-median-of-two-sorted-arrays](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0088-merge-sorted-array) |
@@ -118,6 +119,7 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -135,4 +137,8 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
