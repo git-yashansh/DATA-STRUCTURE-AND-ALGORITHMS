@@ -69,12 +69,14 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0125-valid-palindrome) |
@@ -85,6 +87,7 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [1837-sum-of-digits-in-base-k](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1837-sum-of-digits-in-base-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/3658-gcd-of-odd-and-even-sums) |
