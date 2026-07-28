@@ -50,6 +50,7 @@ Build confidence for technical interviews
 | [0014-longest-common-prefix](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0075-sort-colors) |
@@ -71,6 +72,7 @@ Build confidence for technical interviews
 | ------- |
 | [0001-two-sum](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0389-find-the-difference) |
@@ -158,4 +160,8 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
