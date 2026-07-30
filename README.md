@@ -59,6 +59,7 @@ Build confidence for technical interviews
 | [0136-single-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0724-find-pivot-index) |
@@ -102,6 +103,7 @@ Build confidence for technical interviews
 | [0043-multiply-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0264-ugly-number-ii) |
 | [0415-add-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0989-add-to-array-form-of-integer) |
@@ -166,6 +168,7 @@ Build confidence for technical interviews
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -196,4 +199,8 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0264-ugly-number-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
