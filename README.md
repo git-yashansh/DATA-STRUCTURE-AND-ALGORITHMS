@@ -77,6 +77,7 @@ Build confidence for technical interviews
 | [0013-roman-to-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
+| [0264-ugly-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0389-find-the-difference) |
 ## String
@@ -101,6 +102,7 @@ Build confidence for technical interviews
 | [0043-multiply-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0067-add-binary) |
+| [0264-ugly-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0264-ugly-number-ii) |
 | [0415-add-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0989-add-to-array-form-of-integer) |
 | [1837-sum-of-digits-in-base-k](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1837-sum-of-digits-in-base-k) |
@@ -170,6 +172,7 @@ Build confidence for technical interviews
 | ------- |
 | [0053-maximum-subarray](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0264-ugly-number-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -189,4 +192,8 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0002-add-two-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
