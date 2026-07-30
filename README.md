@@ -84,6 +84,7 @@ Build confidence for technical interviews
 | [0013-roman-to-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0389-find-the-difference) |
 | [2129-capitalize-the-title](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2129-capitalize-the-title) |
@@ -95,6 +96,7 @@ Build confidence for technical interviews
 | [0007-reverse-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0067-add-binary) |
 | [1837-sum-of-digits-in-base-k](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1837-sum-of-digits-in-base-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -132,6 +134,7 @@ Build confidence for technical interviews
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
@@ -164,6 +167,7 @@ Build confidence for technical interviews
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
