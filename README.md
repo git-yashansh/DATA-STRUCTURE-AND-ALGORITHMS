@@ -83,6 +83,7 @@ Build confidence for technical interviews
 | ------- |
 | [0013-roman-to-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0125-valid-palindrome) |
@@ -95,6 +96,7 @@ Build confidence for technical interviews
 | [0002-add-two-numbers](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0067-add-binary) |
 | [1837-sum-of-digits-in-base-k](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1837-sum-of-digits-in-base-k) |
@@ -167,6 +169,7 @@ Build confidence for technical interviews
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
