@@ -70,6 +70,7 @@ Build confidence for technical interviews
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1539-kth-missing-positive-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Hash Table
@@ -131,6 +132,7 @@ Build confidence for technical interviews
 | [0875-koko-eating-bananas](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1539-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
