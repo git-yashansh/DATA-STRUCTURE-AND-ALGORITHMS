@@ -59,6 +59,7 @@ Build confidence for technical interviews
 | [0045-jump-game-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0068-text-justification) |
@@ -93,6 +94,7 @@ Build confidence for technical interviews
 | [0030-substring-with-concatenation-of-all-words](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
@@ -110,6 +112,7 @@ Build confidence for technical interviews
 | [0030-substring-with-concatenation-of-all-words](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0068-text-justification) |
@@ -168,6 +171,7 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0015-3sum](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
