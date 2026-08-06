@@ -360,6 +360,7 @@ Build confidence for technical interviews
 | [0783-minimum-distance-between-bst-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0872-leaf-similar-trees) |
 ## Greedy
 |  |
 | ------- |
@@ -403,6 +404,7 @@ Build confidence for technical interviews
 | [0783-minimum-distance-between-bst-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0872-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -434,6 +436,7 @@ Build confidence for technical interviews
 | [0783-minimum-distance-between-bst-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0872-leaf-similar-trees) |
 ## Union-Find
 |  |
 | ------- |
