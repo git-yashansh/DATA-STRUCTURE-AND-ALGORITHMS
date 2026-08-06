@@ -86,6 +86,7 @@ Build confidence for technical interviews
 | [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0204-count-primes) |
+| [0216-combination-sum-iii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0216-combination-sum-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0724-find-pivot-index) |
@@ -309,6 +310,7 @@ Build confidence for technical interviews
 | [0046-permutations](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0216-combination-sum-iii) |
 ## Depth-First Search
 |  |
 | ------- |
