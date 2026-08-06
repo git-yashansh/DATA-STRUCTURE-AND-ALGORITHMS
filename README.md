@@ -359,6 +359,7 @@ Build confidence for technical interviews
 | [0098-validate-binary-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0130-surrounded-regions) |
@@ -412,6 +413,7 @@ Build confidence for technical interviews
 | [0098-validate-binary-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -463,6 +465,7 @@ Build confidence for technical interviews
 | [0098-validate-binary-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -499,6 +502,7 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0226-invert-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0449-serialize-and-deserialize-bst) |
