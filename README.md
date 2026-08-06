@@ -152,6 +152,7 @@ Build confidence for technical interviews
 | [0029-divide-two-integers](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0189-rotate-array) |
@@ -279,6 +280,7 @@ Build confidence for technical interviews
 | ------- |
 | [0002-add-two-numbers](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0050-powx-n) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
