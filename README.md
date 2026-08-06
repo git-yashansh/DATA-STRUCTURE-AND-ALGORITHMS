@@ -63,6 +63,7 @@ Build confidence for technical interviews
 | [0053-maximum-subarray](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0075-sort-colors) |
