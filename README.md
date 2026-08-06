@@ -346,6 +346,7 @@ Build confidence for technical interviews
 | [0110-balanced-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0130-surrounded-regions) |
+| [0226-invert-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0226-invert-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -379,6 +380,7 @@ Build confidence for technical interviews
 | [0110-balanced-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0173-binary-search-tree-iterator) |
+| [0226-invert-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -395,6 +397,7 @@ Build confidence for technical interviews
 | [0110-balanced-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0173-binary-search-tree-iterator) |
+| [0226-invert-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0226-invert-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -404,6 +407,7 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0130-surrounded-regions) |
+| [0226-invert-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0226-invert-binary-tree) |
 ## Geometry
 |  |
 | ------- |
