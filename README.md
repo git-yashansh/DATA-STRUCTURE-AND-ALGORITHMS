@@ -368,6 +368,7 @@ Build confidence for technical interviews
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0938-range-sum-of-bst) |
 ## Greedy
 |  |
 | ------- |
@@ -416,6 +417,7 @@ Build confidence for technical interviews
 | [0894-all-possible-full-binary-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0897-increasing-order-search-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0919-complete-binary-tree-inserter) |
+| [0938-range-sum-of-bst](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -429,6 +431,7 @@ Build confidence for technical interviews
 | [0703-kth-largest-element-in-a-stream](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -453,6 +456,7 @@ Build confidence for technical interviews
 | [0894-all-possible-full-binary-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0897-increasing-order-search-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0919-complete-binary-tree-inserter) |
+| [0938-range-sum-of-bst](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0938-range-sum-of-bst) |
 ## Union-Find
 |  |
 | ------- |
