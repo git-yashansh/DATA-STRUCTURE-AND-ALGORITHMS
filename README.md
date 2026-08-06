@@ -55,6 +55,7 @@ Build confidence for technical interviews
 | [0037-sudoku-solver](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0068-text-justification) |
@@ -139,6 +140,7 @@ Build confidence for technical interviews
 | [0005-longest-palindromic-substring](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0125-valid-palindrome) |
@@ -205,6 +207,7 @@ Build confidence for technical interviews
 | [0005-longest-palindromic-substring](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -253,6 +256,7 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0071-simplify-path) |
 ## Bracket Sequences
 |  |
@@ -281,4 +285,8 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
