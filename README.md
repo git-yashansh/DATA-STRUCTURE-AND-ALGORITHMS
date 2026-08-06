@@ -119,6 +119,7 @@ Build confidence for technical interviews
 | [0349-intersection-of-two-arrays](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0389-find-the-difference) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## String
 |  |
 | ------- |
@@ -358,6 +359,7 @@ Build confidence for technical interviews
 | [0513-find-bottom-left-tree-value](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0513-find-bottom-left-tree-value) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Greedy
 |  |
 | ------- |
@@ -400,6 +402,7 @@ Build confidence for technical interviews
 | [0703-kth-largest-element-in-a-stream](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -430,6 +433,7 @@ Build confidence for technical interviews
 | [0703-kth-largest-element-in-a-stream](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Union-Find
 |  |
 | ------- |
@@ -444,6 +448,7 @@ Build confidence for technical interviews
 | [0513-find-bottom-left-tree-value](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0513-find-bottom-left-tree-value) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Geometry
 |  |
 | ------- |
@@ -462,14 +467,17 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## DP on Trees
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0337-house-robber-iii) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Data Stream
 |  |
 | ------- |
