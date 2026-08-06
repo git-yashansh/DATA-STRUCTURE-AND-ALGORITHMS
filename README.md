@@ -271,6 +271,7 @@ Build confidence for technical interviews
 | [0264-ugly-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0264-ugly-number-ii) |
 | [0337-house-robber-iii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0337-house-robber-iii) |
 | [0894-all-possible-full-binary-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0894-all-possible-full-binary-trees) |
+| [0968-binary-tree-cameras](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0968-binary-tree-cameras) |
 ## Simulation
 |  |
 | ------- |
@@ -371,6 +372,7 @@ Build confidence for technical interviews
 | [0938-range-sum-of-bst](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0951-flip-equivalent-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0965-univalued-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0968-binary-tree-cameras) |
 ## Greedy
 |  |
 | ------- |
@@ -423,6 +425,7 @@ Build confidence for technical interviews
 | [0951-flip-equivalent-binary-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0965-univalued-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0968-binary-tree-cameras) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -465,6 +468,7 @@ Build confidence for technical interviews
 | [0951-flip-equivalent-binary-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0965-univalued-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0968-binary-tree-cameras) |
 ## Union-Find
 |  |
 | ------- |
@@ -513,6 +517,7 @@ Build confidence for technical interviews
 | ------- |
 | [0337-house-robber-iii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0337-house-robber-iii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0968-binary-tree-cameras](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0968-binary-tree-cameras) |
 ## Data Stream
 |  |
 | ------- |
