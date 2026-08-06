@@ -80,6 +80,7 @@ Build confidence for technical interviews
 | [0001-two-sum](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0264-ugly-number-ii) |
@@ -95,6 +96,7 @@ Build confidence for technical interviews
 | [0010-regular-expression-matching](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0014-longest-common-prefix) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0067-add-binary) |
@@ -224,6 +226,7 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Manacher
 |  |
 | ------- |
