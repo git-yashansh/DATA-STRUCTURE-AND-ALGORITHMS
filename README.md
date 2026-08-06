@@ -165,6 +165,7 @@ Build confidence for technical interviews
 | [0166-fraction-to-recurring-decimal](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0223-rectangle-area) |
 | [0264-ugly-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0264-ugly-number-ii) |
 | [0415-add-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0989-add-to-array-form-of-integer) |
@@ -384,4 +385,8 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0130-surrounded-regions) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
