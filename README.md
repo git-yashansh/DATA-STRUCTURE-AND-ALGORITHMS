@@ -322,6 +322,7 @@ Build confidence for technical interviews
 | [0071-simplify-path](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0173-binary-search-tree-iterator) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -377,12 +378,14 @@ Build confidence for technical interviews
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -391,6 +394,7 @@ Build confidence for technical interviews
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0173-binary-search-tree-iterator) |
 ## Union-Find
 |  |
 | ------- |
@@ -404,4 +408,12 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0223-rectangle-area) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
