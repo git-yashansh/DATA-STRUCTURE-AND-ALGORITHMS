@@ -58,6 +58,7 @@ Build confidence for technical interviews
 | [0042-trapping-rain-water](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0068-text-justification) |
@@ -127,6 +128,7 @@ Build confidence for technical interviews
 | [0007-reverse-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0189-rotate-array) |
@@ -228,6 +230,7 @@ Build confidence for technical interviews
 | ------- |
 | [0036-valid-sudoku](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0079-word-search) |
 ## Linked List
 |  |
