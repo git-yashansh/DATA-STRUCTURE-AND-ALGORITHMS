@@ -374,6 +374,7 @@ Build confidence for technical interviews
 | [0965-univalued-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Greedy
 |  |
 | ------- |
@@ -428,6 +429,7 @@ Build confidence for technical interviews
 | [0965-univalued-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -472,6 +474,7 @@ Build confidence for technical interviews
 | [0965-univalued-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Union-Find
 |  |
 | ------- |
