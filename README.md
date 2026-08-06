@@ -373,6 +373,7 @@ Build confidence for technical interviews
 | [0951-flip-equivalent-binary-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0951-flip-equivalent-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0968-binary-tree-cameras) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -426,6 +427,7 @@ Build confidence for technical interviews
 | [0958-check-completeness-of-a-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0968-binary-tree-cameras) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -469,6 +471,7 @@ Build confidence for technical interviews
 | [0958-check-completeness-of-a-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0968-binary-tree-cameras) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Union-Find
 |  |
 | ------- |
