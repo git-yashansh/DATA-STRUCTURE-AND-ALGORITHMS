@@ -52,6 +52,7 @@ Build confidence for technical interviews
 | [0015-3sum](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0068-text-justification) |
@@ -85,6 +86,7 @@ Build confidence for technical interviews
 | [0013-roman-to-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
@@ -217,6 +219,7 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0079-word-search) |
 ## Linked List
 |  |
@@ -256,6 +259,7 @@ Build confidence for technical interviews
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
@@ -265,4 +269,12 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0011-container-with-most-water) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
