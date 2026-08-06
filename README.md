@@ -369,6 +369,7 @@ Build confidence for technical interviews
 | [0872-leaf-similar-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0938-range-sum-of-bst) |
+| [0951-flip-equivalent-binary-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0951-flip-equivalent-binary-trees) |
 ## Greedy
 |  |
 | ------- |
@@ -418,6 +419,7 @@ Build confidence for technical interviews
 | [0897-increasing-order-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0897-increasing-order-search-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0919-complete-binary-tree-inserter) |
 | [0938-range-sum-of-bst](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0938-range-sum-of-bst) |
+| [0951-flip-equivalent-binary-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -457,6 +459,7 @@ Build confidence for technical interviews
 | [0897-increasing-order-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0897-increasing-order-search-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0919-complete-binary-tree-inserter) |
 | [0938-range-sum-of-bst](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0938-range-sum-of-bst) |
+| [0951-flip-equivalent-binary-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0951-flip-equivalent-binary-trees) |
 ## Union-Find
 |  |
 | ------- |
