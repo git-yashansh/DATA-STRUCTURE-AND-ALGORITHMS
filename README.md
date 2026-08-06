@@ -166,6 +166,7 @@ Build confidence for technical interviews
 | [0189-rotate-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0264-ugly-number-ii) |
 | [0415-add-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0989-add-to-array-form-of-integer) |
@@ -220,6 +221,7 @@ Build confidence for technical interviews
 | [0090-subsets-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
@@ -293,6 +295,7 @@ Build confidence for technical interviews
 | [0010-regular-expression-matching](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0231-power-of-two) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
