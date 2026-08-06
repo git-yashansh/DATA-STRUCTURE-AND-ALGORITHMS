@@ -375,6 +375,7 @@ Build confidence for technical interviews
 | [0968-binary-tree-cameras](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -430,6 +431,7 @@ Build confidence for technical interviews
 | [0968-binary-tree-cameras](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -444,6 +446,7 @@ Build confidence for technical interviews
 | [0783-minimum-distance-between-bst-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -475,6 +478,7 @@ Build confidence for technical interviews
 | [0968-binary-tree-cameras](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Union-Find
 |  |
 | ------- |
