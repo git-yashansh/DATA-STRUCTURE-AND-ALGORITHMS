@@ -64,6 +64,7 @@ Build confidence for technical interviews
 | [0054-spiral-matrix](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0075-sort-colors) |
@@ -230,6 +231,7 @@ Build confidence for technical interviews
 | ------- |
 | [0043-multiply-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0415-add-strings) |
@@ -241,6 +243,7 @@ Build confidence for technical interviews
 | [0037-sudoku-solver](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0079-word-search) |
 ## Linked List
 |  |
