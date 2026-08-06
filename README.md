@@ -156,6 +156,7 @@ Build confidence for technical interviews
 | [0060-permutation-sequence](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0264-ugly-number-ii) |
@@ -208,6 +209,7 @@ Build confidence for technical interviews
 | ------- |
 | [0029-divide-two-integers](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0137-single-number-ii) |
@@ -318,6 +320,7 @@ Build confidence for technical interviews
 | [0040-combination-sum-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0216-combination-sum-iii) |
 ## Depth-First Search
