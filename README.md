@@ -355,6 +355,7 @@ Build confidence for technical interviews
 | [0337-house-robber-iii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0337-house-robber-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0513-find-bottom-left-tree-value) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Greedy
 |  |
 | ------- |
@@ -395,6 +396,7 @@ Build confidence for technical interviews
 | [0449-serialize-and-deserialize-bst](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0513-find-bottom-left-tree-value) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -406,6 +408,7 @@ Build confidence for technical interviews
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -422,6 +425,7 @@ Build confidence for technical interviews
 | [0449-serialize-and-deserialize-bst](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0513-find-bottom-left-tree-value) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Union-Find
 |  |
 | ------- |
@@ -434,6 +438,7 @@ Build confidence for technical interviews
 | [0226-invert-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0226-invert-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0513-find-bottom-left-tree-value) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Geometry
 |  |
 | ------- |
