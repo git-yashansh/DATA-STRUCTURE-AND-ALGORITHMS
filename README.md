@@ -103,6 +103,7 @@ Build confidence for technical interviews
 | [0058-length-of-last-word](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0415-add-strings) |
@@ -240,6 +241,7 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0071-simplify-path) |
 ## Bracket Sequences
 |  |
 | ------- |
