@@ -93,6 +93,7 @@ Build confidence for technical interviews
 | [0724-find-pivot-index](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0875-koko-eating-bananas) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0977-squares-of-a-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -120,6 +121,7 @@ Build confidence for technical interviews
 | [0389-find-the-difference](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0389-find-the-difference) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -233,6 +235,7 @@ Build confidence for technical interviews
 | [0053-maximum-subarray](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Counting
 |  |
 | ------- |
@@ -405,6 +408,7 @@ Build confidence for technical interviews
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0872-leaf-similar-trees) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -437,6 +441,7 @@ Build confidence for technical interviews
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0872-leaf-similar-trees) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Union-Find
 |  |
 | ------- |
