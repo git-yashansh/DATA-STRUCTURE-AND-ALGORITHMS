@@ -420,6 +420,7 @@ Build confidence for technical interviews
 | [0919-complete-binary-tree-inserter](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0919-complete-binary-tree-inserter) |
 | [0938-range-sum-of-bst](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -460,6 +461,7 @@ Build confidence for technical interviews
 | [0919-complete-binary-tree-inserter](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0919-complete-binary-tree-inserter) |
 | [0938-range-sum-of-bst](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -476,6 +478,7 @@ Build confidence for technical interviews
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0919-complete-binary-tree-inserter](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0919-complete-binary-tree-inserter) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Geometry
 |  |
 | ------- |
