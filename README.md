@@ -55,6 +55,7 @@ Build confidence for technical interviews
 | [0066-plus-one](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0136-single-number) |
@@ -104,6 +105,7 @@ Build confidence for technical interviews
 | [0067-add-binary](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0415-add-strings) |
@@ -211,6 +213,7 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -246,4 +249,12 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0032-longest-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
