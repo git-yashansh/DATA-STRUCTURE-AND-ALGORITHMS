@@ -75,6 +75,7 @@ Build confidence for technical interviews
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
@@ -103,6 +104,7 @@ Build confidence for technical interviews
 | [0036-valid-sudoku](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
@@ -337,4 +339,8 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
