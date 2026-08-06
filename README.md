@@ -270,6 +270,7 @@ Build confidence for technical interviews
 | [0152-maximum-product-subarray](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0264-ugly-number-ii) |
 | [0337-house-robber-iii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0337-house-robber-iii) |
+| [0894-all-possible-full-binary-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0894-all-possible-full-binary-trees) |
 ## Simulation
 |  |
 | ------- |
@@ -304,6 +305,7 @@ Build confidence for technical interviews
 | [0050-powx-n](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0231-power-of-two) |
+| [0894-all-possible-full-binary-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0894-all-possible-full-binary-trees) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -409,6 +411,7 @@ Build confidence for technical interviews
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0894-all-possible-full-binary-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0894-all-possible-full-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -442,6 +445,7 @@ Build confidence for technical interviews
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0894-all-possible-full-binary-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0894-all-possible-full-binary-trees) |
 ## Union-Find
 |  |
 | ------- |
@@ -490,4 +494,8 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0703-kth-largest-element-in-a-stream) |
+## Memoization
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0894-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
