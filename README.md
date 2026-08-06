@@ -47,6 +47,7 @@ Build confidence for technical interviews
 | ------- |
 | [0001-two-sum](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -132,6 +133,7 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0088-merge-sorted-array) |
@@ -259,4 +261,8 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0079-word-search](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0079-word-search) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
