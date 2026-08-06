@@ -97,6 +97,7 @@ Build confidence for technical interviews
 | [0013-roman-to-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0067-add-binary) |
@@ -191,6 +192,7 @@ Build confidence for technical interviews
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0264-ugly-number-ii) |
@@ -231,4 +233,12 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
