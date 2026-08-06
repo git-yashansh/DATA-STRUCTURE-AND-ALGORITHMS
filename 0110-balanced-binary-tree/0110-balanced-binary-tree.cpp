@@ -1,5 +1,5 @@
 class Solution {
-private:
+public:
     int checkHeight(TreeNode* root) {
         if (!root) return 0;
 
@@ -9,12 +9,11 @@ private:
         int rightHeight = checkHeight(root->right);
         if (rightHeight == -1) return -1;
 
-        if (std::abs(leftHeight - rightHeight) > 1) return -1;
+        if (abs(leftHeight - rightHeight) > 1) return -1;
 
-        return 1 + std::max(leftHeight, rightHeight);
+        return 1 + max(leftHeight, rightHeight);
     }
 
-public:
     bool isBalanced(TreeNode* root) {
         return checkHeight(root) != -1;
     }
