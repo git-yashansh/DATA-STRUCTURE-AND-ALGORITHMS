@@ -9,13 +9,14 @@ public:
                     ans+=c;
                 }
                 depth++;
+
             }else{
                 depth--;
-                if(depth>0){
+                if(depth > 0){
                     ans+=c;
                 }
-
             }
+
         }
         return ans;
         
