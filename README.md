@@ -151,6 +151,7 @@ Build confidence for technical interviews
 | [0415-add-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0415-add-strings) |
 | [0449-serialize-and-deserialize-bst](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0449-serialize-and-deserialize-bst) |
 | [1021-remove-outermost-parentheses](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1903-largest-odd-number-in-string) |
 | [2129-capitalize-the-title](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2129-capitalize-the-title) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Math
@@ -179,6 +180,7 @@ Build confidence for technical interviews
 | [0415-add-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0989-add-to-array-form-of-integer) |
 | [1837-sum-of-digits-in-base-k](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1837-sum-of-digits-in-base-k) |
+| [1903-largest-odd-number-in-string](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
@@ -398,6 +400,7 @@ Build confidence for technical interviews
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0135-candy) |
+| [1903-largest-odd-number-in-string](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1903-largest-odd-number-in-string) |
 ## Algorithm X
 |  |
 | ------- |
