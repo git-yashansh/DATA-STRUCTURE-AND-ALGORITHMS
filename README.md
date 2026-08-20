@@ -134,6 +134,7 @@ Build confidence for technical interviews
 | [0012-integer-to-roman](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0043-multiply-strings) |
@@ -337,6 +338,7 @@ Build confidence for technical interviews
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0071-simplify-path) |
@@ -349,6 +351,7 @@ Build confidence for technical interviews
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
