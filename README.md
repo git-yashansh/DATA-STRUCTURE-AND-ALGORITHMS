@@ -154,6 +154,7 @@ Build confidence for technical interviews
 | [0389-find-the-difference](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0415-add-strings) |
 | [0449-serialize-and-deserialize-bst](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0449-serialize-and-deserialize-bst) |
+| [0796-rotate-string](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1903-largest-odd-number-in-string) |
 | [2129-capitalize-the-title](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2129-capitalize-the-title) |
@@ -583,4 +584,8 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0894-all-possible-full-binary-trees](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0894-all-possible-full-binary-trees) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
