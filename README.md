@@ -117,6 +117,7 @@ Build confidence for technical interviews
 | [0128-longest-consecutive-sequence](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0389-find-the-difference) |
@@ -148,6 +149,7 @@ Build confidence for technical interviews
 | [0125-valid-palindrome](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0166-fraction-to-recurring-decimal) |
+| [0205-isomorphic-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0415-add-strings) |
