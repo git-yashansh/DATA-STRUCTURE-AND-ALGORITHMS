@@ -102,6 +102,7 @@ Build confidence for technical interviews
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -238,6 +239,7 @@ Build confidence for technical interviews
 | [0451-sort-characters-by-frequency](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -337,6 +339,7 @@ Build confidence for technical interviews
 | [0264-ugly-number-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
