@@ -105,6 +105,7 @@ Build confidence for technical interviews
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Hash Table
 |  |
@@ -211,6 +212,7 @@ Build confidence for technical interviews
 | [0349-intersection-of-two-arrays](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
@@ -223,6 +225,7 @@ Build confidence for technical interviews
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1539-kth-missing-positive-number) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
@@ -240,6 +243,7 @@ Build confidence for technical interviews
 | [0747-largest-number-at-least-twice-of-others](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
