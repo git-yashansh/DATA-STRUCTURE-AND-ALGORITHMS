@@ -446,6 +446,7 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0075-sort-colors) |
 ## Tree
 |  |
 | ------- |
@@ -617,4 +618,8 @@ Build confidence for technical interviews
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0229-majority-element-ii) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/git-yashansh/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
